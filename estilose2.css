@@ -1,0 +1,42 @@
+body{
+	font-family: arial;
+	background: url(fondo.jpg);
+	background-size: 100%;
+}
+
+.img{
+	position: absolute;
+	top: 10%;
+	width: 900px;
+	height: 900px;
+	background: #fff;
+	border: 10px solid black;
+}
+
+.img2{
+	position: absolute;
+	top: 1000px;
+	width: 900px;
+	height: 900px;
+	background: #fff;
+	border: 10px solid black;
+}
+
+.img3{
+	position: absolute;
+	top: 2000px;
+	width: 900px;
+	height: 900px;
+	background: #fff;
+	border: 10px solid black;
+}
+
+.img4{
+	position: absolute;
+	top: 3000px;
+	width: 900px;
+	height: 900px;
+	background: #fff;
+	border: 10px solid black;
+}
+

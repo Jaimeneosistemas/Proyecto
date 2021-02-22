@@ -1,0 +1,142 @@
+   body{
+          background: url(fondo.jpg);
+          background-size: 100%;
+   }
+     
+     p{
+      font-family: arial;
+     }
+
+   .titulo{
+    position: absolute;
+    left: 500px;
+    top: 30px;
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    background-color: white;
+    color: orange;
+    border-radius: 10px;
+   }
+   .tr{
+    position: relative;
+    bottom: 30px;
+    left: 25px;
+   }
+
+     .foto{
+      position: absolute;
+      left: 180px;
+      top: 30px;
+      border-radius: 80px;
+      border-style: ridge;
+      border-color: black;
+     }
+      
+      .logo{
+        position: absolute;
+        left: 900px;
+        top: 30px;
+      }
+
+      .nombre{
+         position: absolute;
+         left: 510px;
+         top: 200px;
+         font-size: 20px;
+         color: white;
+      }
+
+      .grado{
+        position: relative;
+        left: 90px;
+      }
+
+      .bot{
+        position: absolute;
+        display: flex;
+        top: 400px;
+        left: 418px;
+        color: white;
+      }
+
+      a{
+        text-decoration: none;
+        color: orange;
+      }
+
+      .bo1{
+        position: relative;
+        width: 100px;
+        height: 40px;
+        background-color: white;
+        border-radius: 40px;
+      }
+
+            .bo2{
+        position: relative;
+        left: 20px;
+        width: 100px;
+        height: 40px;
+        background-color: white;
+        border-radius: 40px;
+      }
+
+      .bo3{
+        position: relative;
+        left: 40px;
+        width: 100px;
+        height: 40px;
+        background-color: white;
+        border-radius: 40px;
+      }
+
+      .bo4{
+        position: relative;
+        left: 60px;
+        width: 100px;
+        height: 40px;
+        background-color: white;
+        border-radius: 40px;
+      }
+
+
+      .pe{
+        position: relative;
+        left: 15px;
+        top: 10px;
+      }
+
+            .pe2{
+        position: relative;
+        left: 15px;
+        top: 10px;
+      }
+
+            .pe3{
+        position: relative;
+        left: 15px;
+        top: 10px;
+      }
+
+            .pe4{
+        position: relative;
+        left: 15px;
+        top: 10px;
+      }
+
+      .bo1:hover{
+        background-color: #BDB7B7;
+      }
+            .bo2:hover{
+        background-color: #BDB7B7;
+      }
+            .bo3:hover{
+        background-color: #BDB7B7;
+      }
+            .bo4:hover{
+        background-color: #BDB7B7;
+      }
+            .titulo:hover{
+        background-color: #46D8C9;
+      }
