@@ -1,0 +1,172 @@
+body{
+    background: url(fondo.jpg);
+    background-size: 100%;
+
+}
+
+.ti{
+	font-size: 40px;
+	color: white;
+}
+
+.iris{
+	border-radius: 100%;
+	position: absolute;
+	width: 350px;
+	top: 150px;
+	left: 50px;
+	border:10px black;
+	border-style: solid;
+}
+
+.kata{
+	border-radius: 100%;
+	position: absolute;
+	width: 350px;
+	top: 150px;
+	left: 470px;
+	border:10px black;
+	border-style: solid;
+}
+
+.zed{
+	border-radius: 100%;
+	position: absolute;
+	width: 350px;
+	top: 150px;
+	left: 900px;
+	border:10px black;
+	border-style: solid;
+}
+
+.trabajador{
+	position: absolute;
+	top: 1200px;
+	width: 500px;
+	background:#000; 
+	color:#B21D1D;
+	text-align: center;
+	padding: 5px;
+	font-size: 30px;
+	border-radius: 10px;
+	border:10px #BB441B;
+	border-style: solid;
+}
+
+.doblee{
+	position: absolute;
+	top: 1152px;
+	width: 400px;
+	opacity: 0;
+	left: 500px;
+}
+
+.doblee:hover{
+	opacity: 1;
+}
+
+.trixie{
+	border-radius: 100%;
+	position: absolute;
+	width: 300px;
+	top: 1150px;
+	left: 50px;
+	border:10px black;
+	border-style: solid;
+	left: 900px;
+}
+
+.trabajador2{
+	position: absolute;
+	top: 1780px;
+	width: 500px;
+	background:#000; 
+	color:#B21D1D;
+	text-align: center;
+	padding: 5px;
+	font-size: 30px;
+	border-radius: 10px;
+	border:10px #BB441B;
+	border-style: solid;
+}
+
+.dobleee{
+	position: absolute;
+	top: 1800px;
+	width: 400px;
+	left: 550px;
+	border-radius: 20px;
+	border:5px black solid;
+}
+
+.obrera{
+	position: absolute;
+	top: 1800px;
+	width: 400px;
+	left: 550px;
+	border-radius: 20px;
+	border:5px black solid;
+	opacity: 0;
+}
+
+.obrera:active{
+	opacity: 1;
+}
+
+.tulin{
+	border-radius: 100%;
+	position: absolute;
+	width: 300px;
+	top: 1750px;
+	border:10px black;
+	border-style: solid;
+	left: 1000px;
+}
+
+.trabajador3{
+	position: absolute;
+	top: 2580px;
+	width: 500px;
+	background:#000; 
+	color:#B21D1D;
+	text-align: center;
+	padding: 5px;
+	font-size: 30px;
+	border-radius: 10px;
+	border:10px #BB441B;
+	border-style: solid;
+}
+
+.bogota{
+	position: absolute;
+	top: 2700px;
+	width: 400px;
+	left: 550px;
+	border-radius: 20px;
+	border:10px black solid;
+}
+
+.gra{
+	position: absolute;
+	top: 2700px;
+	width: 500px;
+	left: 550px;
+	border-radius: 20px;
+	border:10px black solid;
+	opacity: 0;
+}
+
+
+.gra:hover{
+	opacity: 1;
+}
+
+.tula{
+	border-radius: 100%;
+	position: absolute;
+	width: 300px;
+	top: 2650px;
+	border:10px black;
+	border-style: solid;
+	left: 1000px;
+}
