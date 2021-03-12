@@ -1,0 +1,20 @@
+body{
+    background: url(fondo.jpg);
+    background-size: 100%;
+
+}
+
+.ti{
+	font-size: 40px;
+	color: white;
+}
+
+.zed{
+	border-radius: 100%;
+	position: absolute;
+	width: 350px;
+	top: 150px;
+	left: 470px;
+	border:10px black;
+	border-style: solid;
+}
