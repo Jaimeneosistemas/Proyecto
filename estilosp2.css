@@ -59,3 +59,11 @@ left: 45px;
     top: 25%;
     left: 75%;
 }
+
+.final{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    top: 65%;
+}
